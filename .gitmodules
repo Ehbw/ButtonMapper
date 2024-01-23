@@ -1,0 +1,6 @@
+[submodule "vendors/--force"]
+	path = vendors/--force
+	url = https://github.com/StudioCherno/Walnut
+[submodule "vendors/Walnut"]
+	path = vendors/Walnut
+	url = https://github.com/StudioCherno/Walnut
