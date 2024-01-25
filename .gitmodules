@@ -1,0 +1,3 @@
+[submodule "vendors/Walnut"]
+	path = vendors/Walnut
+	url = https://github.com/StudioCherno/Walnut
